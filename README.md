@@ -1,2 +1,2 @@
 # touchstone
-This is a project-based assessment that helps me apply mastery of the concepts to solve an authentic problem.
+A dynamic collection of educational projects and studies, showcasing a diverse range of evolving skills and knowledge.
